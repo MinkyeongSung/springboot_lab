@@ -1,11 +1,11 @@
-package shop.mtcoding.mallpractice2.controller;
+package shop.mtcoding.mallpractice3.controller;
 
 import org.springframework.beans.factory.annotation.Autowired;
 import org.springframework.stereotype.Controller;
 import org.springframework.web.bind.annotation.GetMapping;
 import org.springframework.web.bind.annotation.PostMapping;
-import shop.mtcoding.mallpractice2.model.Product;
-import shop.mtcoding.mallpractice2.model.ProductRepository;
+import shop.mtcoding.mallpractice3.model.Product;
+import shop.mtcoding.mallpractice3.model.ProductRepository;
 
 import javax.servlet.http.HttpServletRequest;
 import javax.servlet.http.HttpServletResponse;
